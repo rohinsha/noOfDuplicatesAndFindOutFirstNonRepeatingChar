@@ -1,0 +1,2 @@
+# noOfDuplicatesAndFindOutFirstNonRepeatingChar
+Created with CodeSandbox
